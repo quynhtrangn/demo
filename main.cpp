@@ -115,7 +115,7 @@ int main(){
             }
             // dan bay
             for(int i=0;i<bullet.size();i++){
-                bullet[i].move(10*0.886f,-10*0.5f);
+                bullet[i].move(0.0f,-10.0f);
                //move(0.0f,-10.0f);move(10*0.886f,-10*0.5f);
 
             }
